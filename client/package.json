@@ -30,7 +30,8 @@
     },
     "extends": [
       "plugin:vue/essential",
-      "eslint:recommended"
+      "eslint:recommended",
+      "plugin:vue/base"
     ],
     "rules": {},
     "parserOptions": {
